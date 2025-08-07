@@ -1,4 +1,5 @@
 // src/app/page.js
+"use client"
 import Header from "./Header/page";
 import Company_Introduction from "./Home/page";
 function Home() {
