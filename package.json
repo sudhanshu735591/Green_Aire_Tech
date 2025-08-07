@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "patch-package": "^8.0.0",
     "tailwindcss": "^4.1.11"
   }
 }
